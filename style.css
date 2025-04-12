@@ -64,7 +64,7 @@ footer{
 
 @media not(hover:hover){
     .sorry{
-        visibility: visible!important;
+        color: white;
         text-align: center;
     }
 }
