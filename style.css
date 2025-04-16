@@ -64,20 +64,20 @@ footer{
 
 @media (hover:none){
     .sorry{
-        color: white;
-        text-align: center;
+        color: white!important;
+        text-align: center!important;
     }
 }
 @media(pointer:course){
     .sorry{
-        color: white;
-        text-align: center;
+        color: white!important;
+        text-align: center!important;
     }
 }
 @media(max-width:750px){
     .sorry{
-        color: white;
-        text-align: center;
+        color: white!important;
+        text-align: center!important;
     }
 }
     
