@@ -68,3 +68,10 @@ footer{
         text-align: center;
     }
 }
+@media(pointer:course){
+    .sorry{
+        color: white;
+        text-align: center;
+    }
+}
+    
