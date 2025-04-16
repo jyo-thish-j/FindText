@@ -62,7 +62,7 @@ footer{
     }
 }
 
-@media not(hover:hover){
+@media (hover:none){
     .sorry{
         color: white;
         text-align: center;
